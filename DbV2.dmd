@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="DbV2" id="0EB61A99-A520-4529-9A02-4FEED0EF44BA" version="3.5">
+<createdBy>Ss3mi</createdBy>
+<createdTime>2021-11-04 11:10:15 UTC</createdTime>
+<ownerDesignName>DbV2</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>0EB61A99-A520-4529-9A02-4FEED0EF44BA</designId>
+</OSDM_Design>
